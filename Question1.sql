@@ -1,0 +1,3 @@
+USE DEALERSHIP_DATABASE;
+SELECT *
+FROM dealerships
