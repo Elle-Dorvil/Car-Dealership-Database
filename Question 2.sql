@@ -1,0 +1,4 @@
+USE DEALERSHIP_DATABASE;
+SELECT *
+FROM inventory
+WHERE dealership_id = 3
